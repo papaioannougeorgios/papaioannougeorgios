@@ -1,6 +1,5 @@
-# Welcome to my GitHub.
+# Hey there,
 
-## I'm George, this is my official GitHub account that serves as a place for me to publicize personal projects that I've done.
-## I'm a cyber security engineer who has a love for automation with a versatile arsenal of experience across a vast number of fields; development, cyber security, computers, and more!
-
-## That's about it for me, always remember that if there's a will, there's a way.
+## I'm a cybersecurity engineer focused on automation, tooling, and infrastructure.
+## I build personal projects involving offensive/defensive security, tools, system logs, and investigative work.
+## Most repositories here are experiments, utilities, or research projects I've done.
